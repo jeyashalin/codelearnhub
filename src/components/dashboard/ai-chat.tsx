@@ -75,7 +75,7 @@ export default function AiChat() {
   };
 
   return (
-      <Card className="w-full mx-auto h-full flex flex-col justify-between z-40">
+      <Card className="w-full mx-auto h-8 bg-gray-700 flex flex-col justify-between z-40">
         <CardHeader>
           <CardTitle className="text-2xl tracking-wide text-center font-semibold">AI DOUBT ASSISTANT</CardTitle>
         </CardHeader>
