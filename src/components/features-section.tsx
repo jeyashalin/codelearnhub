@@ -8,7 +8,7 @@ export function FeatureSection() {
           Features
         </span>
         <h2 className="font-heading text-3xl sm:text-4xl font-semibold tracking-tight text-center text-balance">
-          Let's make coding simple, fun, and rewarding for you.
+          Lets make coding simple, fun, and rewarding for you.
         </h2>
       </div>
       <div className="relative z-10 mx-auto grid max-w-7xl grid-cols-1 py-10 md:grid-cols-2 lg:grid-cols-3">
